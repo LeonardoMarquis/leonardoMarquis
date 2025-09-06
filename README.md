@@ -3,7 +3,7 @@
 
 ## Minhas principais habilidades incluem:
 
-* Frontend: Html, Css, Java Scritp
+* Frontend: Html, Css, Java Script
 * Backend: Java, Python, Django
 * Bancos de Dados: PostgresSql. 
 * Ferramentas e Workflow: Git/GitHub
