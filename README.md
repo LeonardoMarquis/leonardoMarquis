@@ -3,7 +3,9 @@
 
 ## Minhas principais habilidades incluem:
 
-* Backend: Java, Python, Django Bancos de Dados: PostgresSql. 
+* Frontend: Html, Css, Java Scritp
+* Backend: Java, Python, Django
+* Bancos de Dados: PostgresSql. 
 * Ferramentas e Workflow: Git/GitHub
 
 Atualmente, permaneço expandindo os meus conhecimentos e explorando tecnologias afim de desenvolver soluções úteis e impactantes.
