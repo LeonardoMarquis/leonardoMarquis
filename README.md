@@ -5,8 +5,8 @@
 
 * Frontend: Html, Css, Java Script
 * Backend: Java, Python, Django
-* Bancos de Dados: PostgresSql. 
-* Ferramentas e Workflow: Git/GitHub
+* Bancos de Dados: PostgresSql
+* Ferramentas e Workflow: Git/GitHub, UML
 
 Atualmente, permaneço expandindo os meus conhecimentos e explorando tecnologias afim de desenvolver soluções úteis e impactantes.
 
