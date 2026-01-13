@@ -16,4 +16,4 @@ Atualmente, permaneço expandindo os meus conhecimentos e explorando tecnologias
 ![](https://nirzak-streak-stats.vercel.app/?user=LeonardoMarquis&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarquis&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
