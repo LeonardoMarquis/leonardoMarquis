@@ -12,7 +12,6 @@ Atualmente, permaneço expandindo os meus conhecimentos e explorando tecnologias
 
 "Desejos e necessidades não são a mesma coisa. Desejos ecoam. Necessidades uivam."
 # 📊 GitHub Stats:
-![Metrics](https://metrics.lecoq.io/LeonardoMarquis?template=classic&config.timezone=America/Sao_Paulo)<br/>
 ![Linguagens do Leonardo](https://metrics.lecoq.io/LeonardoMarquis?template=classic&base=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage&theme=gotham)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
