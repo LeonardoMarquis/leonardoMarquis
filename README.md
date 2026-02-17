@@ -13,7 +13,7 @@ Atualmente, permaneço expandindo os meus conhecimentos e explorando tecnologias
 "Desejos e necessidades não são a mesma coisa. Desejos ecoam. Necessidades uivam."
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarquis&layout=compact&theme=gotham&hide=html,css,scss,c%2B%2B&langs_count=6" alt="Minhas Linguagens Reais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarquis&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=html,css" alt="Top Langs" />
  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=LeonardoMarquis&theme=gotham&hide_border=false" alt="GitHub Streak" />
 </p>
