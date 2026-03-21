@@ -18,7 +18,7 @@
   <br/>
    <img src="https://nirzak-streak-stats.vercel.app/?user=LeonardoMarquis&theme=gotham&hide_border=false" alt="GitHub Streak" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarquis&layout=donut-vertical&theme=gotham" alt="Top Languages"><br>
-      <img src="assets/Bison_gif">
+      <img src="assets/Bison_gif.gif">
 
 </p>
 
