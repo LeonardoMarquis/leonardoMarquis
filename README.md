@@ -15,7 +15,7 @@ Atualmente, permaneço expandindo os meus conhecimentos e explorando tecnologias
 <p align="left">
   <br/>
    <img src="https://nirzak-streak-stats.vercel.app/?user=LeonardoMarquis&theme=gotham&hide_border=false" alt="GitHub Streak" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarquis&theme=gotham&layout=donut-vertical&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarquis&layout=donut-vertical&theme=gotham" alt="Top Languages">
 
 </p>
 
