@@ -8,10 +8,10 @@
 * Bancos de Dados: PostgresSql, MySql
 * Ferramentas e Workflow: Git/GitHub, UML
 
-## About Me
-- ✨ Expandindo conhecimentos!
-- ❄️ "Desejos e necessidades não são a mesma coisa. Desejos ecoam. Necessidades uivam."
+## 👤 About Me
+- ✨ Sempre expandindo conhecimentos!
 - ⚙️ Entusiasta de Mods para Minecraft
+- ❄️ "Desejos e necessidades não são a mesma coisa. Desejos ecoam. Necessidades uivam."
 
 ## 📊 GitHub Stats:
 <p align="center">
