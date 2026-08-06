@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#00003B&height=220&section=header&text=Leonardo%20Marquis&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Problem%20Solver&descAlign=Y&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#00003b&height=220&section=header&text=Leonardo%20Marquis&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Problem%20Solver&descAlign=Y&descAlignY=70" />
 </div>
 
 # 🚀 Leonardo Marquis |
+Bem-vindo à minha oficina de soluções. Como técnico em Informática e graduando em Ciência da Computação, minha missão é desenvolver sistemas eficientes que simplificam processos e geram valor real através da tecnologia. 
 
 ## 👤 About Me
 - ✨ Sempre expandindo conhecimentos!
