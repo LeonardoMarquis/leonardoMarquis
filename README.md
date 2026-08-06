@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0000af&height=220&section=header&text=Leonardo%20Marquis&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Problem%20Solver&descAlign=Y&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#0000ff&height=220&section=header&text=Leonardo%20Marquis&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Problem%20Solver&descAlign=Y&descAlignY=70" />
 </div>
 
 # 🚀 Leonardo Marquis |
