@@ -6,7 +6,7 @@
 <p align="justify">
 Bem-vindo à minha oficina de soluções. Como técnico em Informática e graduando em Ciência da Computação, minha missão é desenvolver sistemas eficientes que simplificam processos e geram valor real através da tecnologia. </p>
 
-## 👤 About Me
+## 👤 Sobre mim
 - ✨ Sempre expandindo conhecimentos!
 - ⚙️ Entusiasta de Mods para Minecraft
 - ❄️ "Desejos e necessidades não são a mesma coisa. Desejos ecoam. Necessidades uivam."
@@ -29,5 +29,10 @@ Bem-vindo à minha oficina de soluções. Como técnico em Informática e gradua
       <img src="assets/Bison_gif.gif">
 
 </p>
+
+## Projetos de peso 🛠️
+- Web app Comida Search (https://www.linkedin.com/feed/update/urn:li:activity:7441994085143470081/)
+- Site Dokizax Portal (https://dokizaxportal.netlify.app/)
+- Jogo no Roblox "Kit Showdown" (https://www.roblox.com/games/133869160996558/Kit-Showdown)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
