@@ -33,6 +33,7 @@ Bem-vindo à minha oficina de soluções. Como técnico em Informática e gradua
 ## Projetos de peso 🛠️
 - Web app Comida Search (https://www.linkedin.com/feed/update/urn:li:activity:7441994085143470081/)
 - Site Dokizax Portal (https://dokizaxportal.netlify.app/)
+- Programa editor de imagens Image Go (https://github.com/LeonardoMarquis/Image-Editor-Program)
 - Jogo no Roblox "Kit Showdown" (https://www.roblox.com/games/133869160996558/Kit-Showdown)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
